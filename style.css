@@ -1558,4 +1558,10 @@ a {
         top: 20px;
         left: 20px;
     }
+
+    .login-card {
+        width: 343.16px;
+        margin: 0 auto;
+        padding: 2.5rem 1.5rem;
+    }
 }
